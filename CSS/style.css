@@ -11,8 +11,20 @@ Type Selector:
 
 p {
   font-size 1em; (could be px, pts, % or em - which is relative to the font size of the element, ie 2em = 2x font of element)
-  
-
+  line-height: 1.5em;
 }
 
 */
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figcaption{
+  font-weight: normal;
+  font-size: .75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+  
+}
