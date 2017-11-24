@@ -38,3 +38,7 @@ figcaption
 }
 
 /*Class Selectors - can be applied to as many elements and different type of elements as you choose */
+
+.milk-text {
+  /*This will select elements with class = "milk-text"*/
+}
