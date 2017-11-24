@@ -7,4 +7,11 @@ selector  {
   etc.
 }
 
+Type Selector:
+
+p {
+  font-size 1em; (could be px, pts, % or em - which is relative to the font size of the element, ie 2em = 2x font of element)
+
+}
+
 */
